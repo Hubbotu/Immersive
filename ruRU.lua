@@ -2,7 +2,7 @@ local AddOnName, AddOn = ...
 local L = LibStub("AceLocale-3.0"):NewLocale(AddOnName, "ruRU", false)
 
 L.ADDON_NAME = "Immersive"
-
+--Translator ZamestoTV
 -- Bindings
 BINDING_HEADER_IMMERSIVE = "Управление Immersive"
 BINDING_NAME_IMMERSIVE_PANIC = "Активировать режим паники"
